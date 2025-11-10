@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('background.jpg'); /* Adjust path if necessary */
+    background-image: url('Sunset.jpg'); /* Adjust path if necessary */
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -338,5 +338,6 @@ div[style*="text-align: center; color: navy;"] img {
     background-color: black; /* Change background color on hover */
     color: white; /* Change text color on hover */
 }
+
 
 
